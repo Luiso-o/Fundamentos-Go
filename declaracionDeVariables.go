@@ -22,5 +22,7 @@ func main() { //funcion principal
 	fmt.Printf("var c %T = %+v\n", c, c) //salida var c float64 = 0
 
 	fmt.Printf("var d %T = %+v\n", d, d) //salida var d bool = false
+	
+	//En Go no se usa el ;
 
 }
